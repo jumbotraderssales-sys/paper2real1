@@ -105,13 +105,13 @@
     "email": "gm@gmail.com",
     "password": "123",
     "realBalance": 5000,
-    "paperBalance": 250000.11132459837,
+    "paperBalance": 350019.0544707809,
     "accountStatus": "active",
     "role": "user",
-    "currentPlan": "Plan B",
+    "currentPlan": "Plan A",
     "createdAt": "2026-01-14T19:18:18.197Z",
     "lastLogin": "2026-01-26T21:19:56.791Z",
-    "updatedAt": "2026-01-26T21:19:56.791Z"
+    "updatedAt": "2026-01-27T13:26:35.212Z"
   },
   {
     "id": "1768420381923",
@@ -175,12 +175,12 @@
     "email": "naveen@gmail.com",
     "password": "123",
     "realBalance": 5000,
-    "paperBalance": 255000.08649687713,
+    "paperBalance": 260000.08649687713,
     "accountStatus": "active",
     "role": "user",
     "currentPlan": "Plan B",
     "createdAt": "2026-01-26T21:15:11.273Z",
     "lastLogin": "2026-01-26T21:16:03.006Z",
-    "updatedAt": "2026-01-26T21:18:45.165Z"
+    "updatedAt": "2026-01-27T13:25:28.300Z"
   }
 ]

@@ -1636,5 +1636,26 @@
     "exitPrice": 91923.64028638466,
     "closeReason": "MANUAL",
     "closedAt": "2026-01-26T21:18:07.430Z"
+  },
+  {
+    "id": "1769520121090",
+    "userId": "1768418298195",
+    "userName": "gm",
+    "symbol": "BTCUSDT",
+    "side": "long",
+    "size": 0.001,
+    "leverage": 10,
+    "entryPrice": 92109.75819102829,
+    "stopLoss": 90267.56302720773,
+    "takeProfit": 93951.95335484885,
+    "status": "closed",
+    "positionValue": 921.0975819102829,
+    "pnl": 18.94314618253891,
+    "currentPrice": 92109.75819102829,
+    "createdAt": "2026-01-27T13:22:01.090Z",
+    "updatedAt": "2026-01-27T13:26:35.212Z",
+    "exitPrice": 94004.07280928218,
+    "closeReason": "TAKE_PROFIT",
+    "closedAt": "2026-01-27T13:26:35.212Z"
   }
 ]

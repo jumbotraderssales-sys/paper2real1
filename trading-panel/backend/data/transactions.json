@@ -510,6 +510,31 @@
       "status": "completed",
       "processedBy": "admin",
       "timestamp": "2026-01-26T21:18:45.165Z"
+    },
+    {
+      "id": "1769520266357",
+      "userId": "1768418298195",
+      "userName": "gm",
+      "amount": 100000,
+      "type": "plan_purchase",
+      "subtype": "paper_deposit",
+      "plan": "Plan A",
+      "notes": "Plan purchase: Plan A",
+      "status": "completed",
+      "processedBy": "system",
+      "timestamp": "2026-01-27T13:24:26.357Z"
+    },
+    {
+      "id": "1769520328300",
+      "userId": "1769462111273",
+      "userName": "Naveen",
+      "amount": 5000,
+      "type": "admin_adjustment",
+      "subtype": "paper_deposit",
+      "notes": "Admin adjustment - Funds added",
+      "status": "completed",
+      "processedBy": "admin",
+      "timestamp": "2026-01-27T13:25:28.300Z"
     }
   ],
   "withdrawals": [

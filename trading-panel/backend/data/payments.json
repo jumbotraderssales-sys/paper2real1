@@ -371,5 +371,24 @@
     "processedBy": "admin",
     "processNotes": "",
     "updatedAt": "2026-01-26T21:15:41.678Z"
+  },
+  {
+    "id": "1769520238949",
+    "userId": "1768418298195",
+    "userName": "gm",
+    "userEmail": "gm@gmail.com",
+    "planName": "Plan A",
+    "amount": 1000,
+    "paymentMethod": "UPI",
+    "transactionId": "UPI1769520238932",
+    "status": "approved",
+    "submittedAt": "2026-01-27T13:23:58.949Z",
+    "notes": "Payment for Plan A plan via UPI",
+    "screenshotUrl": "",
+    "receiptFilename": "",
+    "processedAt": "2026-01-27T13:24:26.357Z",
+    "processedBy": "admin",
+    "processNotes": "",
+    "updatedAt": "2026-01-27T13:24:26.357Z"
   }
 ]
